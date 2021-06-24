@@ -1,2 +1,1 @@
-# project1
-Ecommerce Website
+# Responsive Ecommerce Website
