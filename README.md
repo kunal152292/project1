@@ -4,8 +4,8 @@
 End user can choose from different sizes and them to the cart <br>
 All products have different prices <br>
 The website is hosted on the free hosting provider named infinityfree.com <br>
-SSL certificate is added to the domain name which makes the website secured </p> <br>
-Domain Name is bought from hostinger.in <br>
+SSL certificate is added to the domain name which makes the website secured  <br>
+Domain Name is bought from hostinger.in <br></p>
 
 # <h2>Languages Used <h2>
 HTML <br>
