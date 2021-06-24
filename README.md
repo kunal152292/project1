@@ -1,5 +1,5 @@
-# Responsive Ecommerce Website
-# Description
+# <h1> Responsive Ecommerce Website </h1>
+# <h2>Description </h2>
 An ecommerce website that allows user to choose from a list of 10 products
 End user can choose from different sizes and them to the cart
 All products have different prices
@@ -8,7 +8,7 @@ SSL certificate is added to the domain name which makes the website secured
 
 # Languages Used
 HTML <br>
-CSS
-Javascript
-PHP
-SQL
+CSS <br>
+Javascript <br>
+PHP <br>
+SQL <br>
