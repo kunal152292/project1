@@ -7,7 +7,7 @@ The website is hosted on the free hosting provider named infinityfree.com
 SSL certificate is added to the domain name which makes the website secured
 
 # Languages Used
-HTML
+HTML <br>
 CSS
 Javascript
 PHP
